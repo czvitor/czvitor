@@ -11,4 +11,4 @@
 - **Hardware Specialist:** Deep knowledge in high-performance PC building and optimization.
 
 ### 📊 GitHub Stats
-![CZ](https://github-readme-stats.vercel.app/api?username=czvitor&show_icons=true&theme=tokyonight)
+[![CZ's GitHub Stats](https://github-readme-stats.vercel.app/api?username=czvitor&show_icons=true&theme=tokyonight)](https://github.com/anuraghazra/github-readme-stats)
