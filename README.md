@@ -6,9 +6,23 @@
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
 ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white)
 
+---
+
 ### 💼 Professional Experience
 - **IT & E-commerce Operations:** Managing hardware maintenance, server administration, and high-volume online sales operations.
 - **Hardware Specialist:** Deep knowledge in high-performance PC building and optimization.
+
+---
+
+### 🖥️ Workstation & Gaming Setup
+| Component | Specification |
+| :--- | :--- |
+| **Processor** | Intel Core i9-12900KF |
+| **GPU** | NVIDIA GeForce RTX 5080 |
+| **Motherboard** | ASUS ROG Strix Z790-E Gaming WiFi II |
+| **Memory** | 32GB DDR5 |
+
+---
 
 ### 📊 GitHub Stats
 ![CZ's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=czvitor&show_icons=true&theme=tokyonight)
