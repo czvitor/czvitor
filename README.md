@@ -25,7 +25,7 @@
 ---
 
 ### 📊 GitHub Stats
-![CZ's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=czvitor&show_icons=true&theme=tokyonight)
+![CZ's GitHub Stats](https://github-readme-stats-sigma-five.vercel.app/api?username=czvitor&show_icons=true&theme=tokyonight&cache_seconds=1800)
 
 ---
 
