@@ -25,7 +25,7 @@
 ---
 
 ### 📊 GitHub Stats
-![CZ's GitHub Stats](https://readme-stats-token.vercel.app/api?username=czvitor&show_icons=true&theme=tokyonight&cache_seconds=1800&count_private=true)
+![CZ's GitHub Stats](https://readme-stats-token.vercel.app/api?username=czvitor&show_icons=true&theme=tokyonight&cache_seconds=1800&count_private=true&include_all_commits=true)
 
 ---
 
